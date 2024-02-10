@@ -29,3 +29,17 @@ body{
     height: 400px;
     background: #1f2937;
 }
+.content-container{
+    color: white;
+}
+.content-right{
+    display: flex;
+    justify-content: flex-end;
+}
+.content-left{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    width: 50px;
+}
