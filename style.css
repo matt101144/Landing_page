@@ -104,3 +104,30 @@ button{
     text-align: center;
     margin-top: 140px;
 }
+.container-3{
+    height: 400px;
+    background-color: #e5e7eb;
+    display: flex;
+    
+}
+.quote-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    margin-left: 500px;
+    
+    
+    
+    
+}
+
+.quote{
+    font-size: 36px;
+    font-family: light italic;
+}
+.quote-author{
+    margin-top: 300px;
+    font-weight: bold;
+    font-size: 18px;
+}
