@@ -1,1 +1,1 @@
-this is a project for a landing page utilising html and css
+this is an example of a template landing page using html and css
